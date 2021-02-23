@@ -17,11 +17,11 @@ Creating links and linking it with artboards
 Preview the prototype.
 
 ## DESIGN SCREENS:
-![output](./static/img/exp07.png)
-![output](./static/img/expo7.png)
+![output](./static/img/gani.png)
+![output](./static/img/ganesh.png)
 ## WIREFRAME:
-![output](./static/img/exp07 y.png)
-![output](./static/img/exp07 h.png)
+![output](./static/img/ganie.png)
+![output](./static/img/gggg.png)
 ## PROTOTYPE:
 
 
